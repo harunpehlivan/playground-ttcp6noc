@@ -1,5 +1,5 @@
 <?php
-    function countAllStars($b) {
+    function countAllStars2($b) {
         return $b;
     }
 ?>
