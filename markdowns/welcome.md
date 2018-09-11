@@ -7,6 +7,12 @@ The source code is on [GitHub](https://github.com/TechDotIO/php-template), pleas
 
 # Hands-on Demo
 
+?[What is the answer to Life, the Universe and Everything?]
+-[ ] There is no answer to that!
+-[ ] Sleep and eat
+-[x] Easy, this is 42
+-[ ] Peace & Love
+
 @[Luke, how many stars there are in these galaxies?]({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})
 @[Wil, teste mon code ?]({"stubs": ["Universe2.php"], "command": "/bin/bash run.sh"})
 
